@@ -2111,7 +2111,7 @@ function Linux.Create(config)
             
             local ValueLabel = Linux.Instance("TextLabel", {
                 Parent = Slider,
-                BackgroundColor3 = Color3.fromRGB(22, 22, 22),
+                BackgroundColor3 = Color3.fromRGB(28, 28, 28),
                 BackgroundTransparency = 0.7,
                 Size = UDim2.new(0, 50, 0, 16),
                 Position = UDim2.new(1, -60, 0, 4),
@@ -2395,7 +2395,7 @@ function Linux.Create(config)
             
             local TextBoxFrame = Linux.Instance("Frame", {
                 Parent = Input,
-                BackgroundColor3 = Color3.fromRGB(22, 22, 22),
+                BackgroundColor3 = Color3.fromRGB(28, 28, 28),
                 BackgroundTransparency = 0.7,
                 BorderSizePixel = 0,
                 Size = UDim2.new(0.5, -20, 0, 24),
